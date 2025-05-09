@@ -56,5 +56,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/lcszera/lcszera/output/snake.svg" alt="Snake animation" />
