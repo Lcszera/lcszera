@@ -1,8 +1,7 @@
-<h4 align="left">Olá, meu nome é Lucas! 👋<br><br>
-- 🔭 Atualmente, estou desenvolvendo um app de leitura em Flutter.<br>
-- 🌱 Estou desenvolvendo em Java, Flutter, CSS, HTML e JS.<br>
-- 📝 Cursando o 5º período de Engenharia da Computação - Universidade Mario Pontes Jucá (UMJ).<br>
-- 👯 No momento, estou desenvolvendo um projeto de extensão da faculdade, em formato web: <b>Maceió Vital</b>.<br>
+<h4 align="left">Bem vindo ao meu perfil!! 👋<br><br>
+- 🔭 Atualmente, faço parte de uma equipe de desenvolvimento de um app de leitura, utilizando Flutter.<br>
+- 📝 Também estou desenvolvendo um sistema de gerenciamento de produtos e consertos de uma oficina eletrônica, utilizando Java.<br>
+- 👯 Sou líder de um projeto de extensão da universidade, relacionado à área da saúde, sendo desenvolvido em formato web: <b>Maceió Vital</b>.<br>
 - 📫 Contato: <b>lucas.silva121@academico.umj.edu.br</b>
 </h4>
 
