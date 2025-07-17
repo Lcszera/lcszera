@@ -1,6 +1,5 @@
 <h4 align="left">Bem vindo ao meu perfil!! 👋<br><br>
 - 👾 Faço parte de uma equipe de desenvolvimento de um app de leitura, utilizando Flutter.<br>
-- 📝 Desenvolvendo um sistema de gerenciamento de produtos e consertos de uma oficina eletrônica, utilizando Java.<br>
 - 👯 Developer do <b> Maceió Vital </b>, projeto relacionado à área da saúde, desenvolvido em formato web.<br>
 - 📫 Contato: <b>lucas.silva121@academico.umj.edu.br</b>
 </h4>
