@@ -2,17 +2,17 @@
 💻 Desenvolvedor focado em <b>Java e Backend</b>, com experiência em aplicações web. <br>
 👯 Developer do <b>Maceió Vital</b>, projeto relacionado à área da saúde, desenvolvido em formato web.<br>
 🚀 Atualmente desenvolvendo projetos pessoais com foco em <b>Spring Boot, APIs REST e Banco de Dados</b>
-</h4> <br>
+</h4> <br> <br>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lcszera&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&custom_title=Estatísticas" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lcszera&layout=compact&langs_count=6&theme=dracula" height="170" alt="languages graph" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=lcszera&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=Estat%C3%ADsticas" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lcszera&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="10" alt="languages graph"  />
+</div> <br> <br>
 
 ###
-<br>
+
 <div align="left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
