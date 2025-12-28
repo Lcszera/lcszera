@@ -1,63 +1,64 @@
-<h4 align="left">Bem vindo ao meu perfil! <br><br>
+<h4 align="left">Bem vindo ao meu perfil! <br> <br>
 💻 Desenvolvedor focado em <b>Java e Backend</b>, com experiência em aplicações web. <br>
 👯 Developer do <b>Maceió Vital</b>, projeto relacionado à área da saúde, desenvolvido em formato web.<br>
 🚀 Atualmente desenvolvendo projetos pessoais com foco em <b>Spring Boot, APIs REST e Banco de Dados</b>
-</h4>
+</h4> <br>
 
 ###
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=lcszera&show_icons=true&count_private=true&theme=react&locale=pt-br" 
-    height="150" 
-    alt="GitHub stats" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lcszera&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&custom_title=Estatísticas" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lcszera&layout=compact&langs_count=6&theme=dracula" height="170" alt="languages graph" />
 </div>
 
 ###
-
+<br>
 <div align="left">
-  <!-- Java -->
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
   <img width="12" />
 
-  <!-- Spring Boot -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
   <img width="12" />
 
-  <!-- PostgreSQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
   <img width="12" />
 
-  <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
   <img width="12" />
 
-  <!-- HTML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
 
-  <!-- CSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img width="12" />
 
-  <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
 </div>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/lucas-menezes-2113a2280/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+  <a href="www.linkedin.com/in/lucasmnezes" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/lcszera" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/lucas.mnzes/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://discord.gg/HzyuMNGKZe" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="https://www.youtube.com/@Loki-zw7ym" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lcszera/Lcszera/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lcszera/Lcszera/output/github-contribution-grid-snake.svg">
+    <img alt="Github snake game" src="https://raw.githubusercontent.com/Lcszera/Lcszera/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
