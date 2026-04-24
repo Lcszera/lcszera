@@ -1,7 +1,7 @@
 <h4 align="left">Bem vindo ao meu perfil! <br> <br>
 💻 Desenvolvedor focado em <b>Java e Backend</b>, com experiência em aplicações web. <br>
-👯 Developer do <b>Maceió Vital</b>, projeto relacionado à área da saúde, desenvolvido em formato web.<br>
-🚀 Atualmente desenvolvendo projetos pessoais com foco em <b>Spring Boot, APIs REST e Banco de Dados</b>
+👯 Developer do <b>Maceió Vital</b>, projeto relacionado à área da saúde, desenvolvido em formato web. <br>
+🚀 Atualmente desenvolvendo projetos pessoais com foco em <b> Java, HTML, CSS, Javascript e SQLite/PostgreSQL. </b>
 </h4> <br> <br>
 
 ###
