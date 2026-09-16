@@ -1,7 +1,7 @@
 <h4 align="left">Bem vindo ao meu perfil! <br> <br>
-💻 Desenvolvedor focado em <b>Java e Backend</b>, com experiência em aplicações web. <br>
+💻 Desenvolvedor focado em <b>Java e Backend</b>, com experiência em aplicações web usando <b>Spring Boot</b>. <br>
 👯 Developer do <b>Maceió Vital</b>, projeto relacionado à área da saúde, desenvolvido em formato web. <br>
-🚀 Atualmente desenvolvendo projetos pessoais com foco em <b> Java, HTML, CSS, Javascript e SQLite/PostgreSQL. </b>
+🚀 Atualmente desenvolvendo sistemas reais com <b>Spring Boot, Spring Security, JPA/Hibernate e PostgreSQL</b>, e estudando <b>Docker e Angular</b> para me tornar um Desenvolvedor Full Stack.
 </h4> <br> <br>
 
 ###
@@ -35,7 +35,7 @@ graph"  />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"
-alt="javascript logo" />
+  alt="javascript logo" />
 </div>
 
 ###
