@@ -1,7 +1,7 @@
 <h4 align="left">Bem vindo ao meu perfil! <br> <br>
 💻 Desenvolvedor focado em <b>Java e Backend</b>, com experiência em aplicações web usando <b>Spring Boot</b>. <br>
 👯 CEO e desenvolvedor do <b><a href="https://maceiovital.com.br">Maceió Vital</a></b>, portal de saúde de Maceió criado como projeto de extensão da UMJ. <br>
-🌐 Portfólio: <a href="https://portfolio-lcs-kappa.vercel.app"><b>portfolio-lcs-kappa.vercel.app</b></a> <br>
+🌐 Portfólio: <a href="https://lucasmenezes.vercel.app"><b>lucasmenezes.vercel.app</b></a> <br>
 🚀 Atualmente desenvolvendo sistemas reais com <b>Spring Boot, Spring Security, JPA/Hibernate e PostgreSQL</b>, e estudando <b>Docker e Angular</b> para me tornar um Desenvolvedor Full Stack.
 </h4> <br> <br>
 
@@ -41,7 +41,7 @@
 ###
 
 <div align="left">
-  <a href="https://portfolio-lcs-kappa.vercel.app" target="_blank">
+  <a href="https://lucasmenezes.vercel.app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portf%C3%B3lio&logo=googlechrome&label=&color=E0303F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio"  />
   </a>
   <a href="https://www.linkedin.com/in/lucasmnzesdev" target="_blank">
